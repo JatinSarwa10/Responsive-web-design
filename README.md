@@ -3,4 +3,4 @@
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/tourist-planner.git
+   git clone https://github.com/JatinSarwa10/tourist-planner.git
