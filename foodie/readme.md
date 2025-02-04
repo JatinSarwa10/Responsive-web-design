@@ -25,3 +25,8 @@ HTML - Structure of the web page
 CSS - Styling and layout
 
 JavaScript - Interactive elements and animations
+
+# Installation
+1. clone this repository
+   ```bash
+   git clone https://github.com/JatinSarwa10/foodie-website.git
